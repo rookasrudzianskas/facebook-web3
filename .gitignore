@@ -7,6 +7,8 @@
 
 /studio/node_modules
 
+/programs/node_modules
+
 # testing
 /coverage
 
